@@ -4,7 +4,7 @@ import './App.css'
 function App(){
 
   const[num, setNum] = useState(Math.floor(Math.random()*100))
-  const[chance, setChance] = useState(3)
+  const[chance, setChance] = useState(2)
   const[user, setUser] = useState('')
 
   const[start, setStart] = useState(0)
