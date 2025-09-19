@@ -10,12 +10,20 @@ input{
 
 button{
   height: 45px;
-  width: fit-content;
-  padding: 12px;
+  width: 130px;
+  padding: 10px;
   border-radius: 12px;
-  background-color: black;
-  color: white;
+  background-color: rgb(53, 172, 67);
+  border: 1px solid rgb(3, 79, 11);
+  color: rgb(11, 2, 2);
   font-size: 20px;
   cursor: pointer;
   font-weight: 600;
+}
+p{
+  color: rgb(153, 19, 224);
+}
+
+center{
+  margin: 100px;
 }
